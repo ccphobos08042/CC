@@ -127,13 +127,6 @@ npm run build
 
 ## 系统截图
 
-### 登录界面
-
-![登录界面](web/public/images/admin-login-bg.jpg)
-
-### 主界面
-
-![主界面](web/public/images/bg2.jpg)
 
 ### 硬件模型
 
