@@ -135,6 +135,26 @@ npm run build
 
 ![主界面](web/public/images/bg2.jpg)
 
+### 硬件模型
+
+![硬件模型](public/images/screenshots/desk.png)
+
+### 警具包管理
+
+![警具包管理](public/images/screenshots/bag.png)
+
+### 航空计划
+
+![航空计划](public/images/screenshots/plan.png)
+
+### 登录界面
+
+![登录界面](public/images/screenshots/login.png)
+
+### 获取警局
+
+![获取警局](public/images/screenshots/take.png)
+
 ## 计算机视觉功能
 
 系统集成了基于Ultralytics YOLO的目标检测功能，可用于：
