@@ -1,0 +1,9 @@
+PyMySQL==1.0.2
+djangorestframework==3.13.0
+django-cors-headers==3.13.0
+Pillow==9.1.1
+psutil==5.9.4
+torchvision~=0.21.0
+ultralytics~=8.3.108
+pyOpenSSL==23.2.0
+Django==3.2.11
